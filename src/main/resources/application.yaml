@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: aichatmodel
+  ai:
+    bedrock:
+      aws:
+        access-key:
+        secret-key:
+      converse:
+        chat:
+          options:
+            model: amazon.titan-text-express-v1
