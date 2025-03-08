@@ -1,4 +1,4 @@
-# springai-embeddings-demo
+# spring-ai-bedrock-converse-demo
 
 This is a demo projects displaying simple integration with Amazon Bedrock using Spring AI
 
